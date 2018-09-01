@@ -24,6 +24,8 @@ public class Main {
         // Decide on the scope, whether to use constructors, and anything else you think is needed.
         //
         // END OF CHALLENGE FOR ENCAPSULATION
+	//
+	// https://www.udemy.com/java-the-complete-java-developer-course/
         //
         // The code with the solution is made by myself.
         //
